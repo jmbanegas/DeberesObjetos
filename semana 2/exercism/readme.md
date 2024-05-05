@@ -1,5 +1,3 @@
-Por supuesto, aquí está el código comentado en el formato especificado:
-
 //Dualcolor
 // Función: Se define una función llamada `decodedValue`.
 // Parámetro: La función toma un parámetro de tipo array desestructurado llamado `[tens, ones]`, donde `tens` y `ones` son de tipo string.
@@ -9,6 +7,7 @@ Por supuesto, aquí está el código comentado en el formato especificado:
 //export const decodedValue = ([tens, ones]: string[]): number =>
 //    colorCode(tens) * 10 + colorCode(ones)
 
+// LINK DEL VIDEO https://youtu.be/RhJsuxcqPRY
 
 //TrioColor
 //Función: Se define una función llamada `decodedResistorValue`.
@@ -22,3 +21,5 @@ Lógica:
   - Calcula el valor numérico de la resistencia utilizando la fórmula `(tens * 10 + ones) * 10 ** zeros`.
   - Busca el prefijo apropiado para la magnitud del valor de la resistencia en el array `prefixes` utilizando el método `find`.
   - Devuelve el valor de la resistencia formateado con el prefijo y la unidad de medida "ohms" utilizando interpolación de cadenas.
+
+// LINK DEL VIDEO https://youtu.be/hYkzm34xDSc
