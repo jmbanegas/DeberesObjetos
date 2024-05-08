@@ -2,7 +2,7 @@
 /* DESCRIPCION DEL CODIGO TwoFer.
 Función: Se define una función llamada `twoFer`.
 Parámetro: La función toma un parámetro llamado `name`, que es de tipo string. Si no se proporciona ningún valor, se utiliza el valor predeterminado "you".
-Retorno: La función devuelve una cadena de texto.
+Retorna: La función devuelve una cadena de texto.
 Interpolación de cadenas: Se utiliza para insertar el valor del parámetro `name` dentro de la cadena de texto devuelta por la función.
 */
 
