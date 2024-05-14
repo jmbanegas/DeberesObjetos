@@ -21,5 +21,5 @@ export function toRna(dnaStr: string): string {
     }
     
     return rnaStr;
-  }
+}
   
